@@ -1,6 +1,6 @@
 # MoveBall
 
-这个Android应用程序主要用于学习如何编写自定义的View，在学习编写的时候，[程梦真](https://github.com/chengcnaplex)提供了很多建议和帮助。
+这个Android应用程序主要用于学习如何编写自定义的View，整个过程中，[程梦真](https://github.com/chengcnaplex)提供了很多建议和帮助。
 
 ## 运行效果
 
